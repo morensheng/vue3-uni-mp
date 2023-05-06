@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/IndexView/IndexView"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#FF4C4C",
+    "navigationBarTitleText": "uni-mp",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#fafafa",
+    "backgroundColorTop": "#fafafa",
+    "backgroundColorBottom": "#fafafa"
+  }
+}
